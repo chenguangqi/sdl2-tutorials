@@ -7,5 +7,7 @@
   :depends-on (#:cl-libsdl2)
   :serial t
   :components ((:file "package")
-               (:file "02")))
+               (:file "02")
+	       (:file "03")
+	       (:file "04")))
 
